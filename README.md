@@ -18,6 +18,8 @@ For questions, please contact [Yama Chang](https://github.com/yamachang) or [Jer
 
 ## Data on Open Science Framework
 
+Raw and centrally cleaned data from the Qualdrics database are stored in [Project TRACK to TREAT](https://osf.io/35w8r) on the Open Science Framework (OSF). The project has two components, with different permissions: a Private Component and a Public Component.
+
 ### Private Component
 
 ### Public Component
